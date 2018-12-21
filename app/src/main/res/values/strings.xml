@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppPDA</string>
+
+    <string name="txt_retunr">終了</string>
+    <!--Register Screen-->
+    <string name="txt_estrus_date_">発情日</string>
+    <string name="txt_classsification">区分</string>
+    <string name="txt_recurrence_date">再発・流産日</string>
+    <string name="txt_date_register">登録者</string>
+    <string name="txt_register_estrus_infor">発情情報登録</string>
+    <string name="txt_register_person">登録者</string>
+    
+    <string name="txt_delivery_date">分娩日</string>
+    <string name="txt_labor_result">分娩結果</string>
+    <string name="txt_delivery_time">分娩時間</string>
+    <string name="txt_pig_info_register">仔豚情報登録</string>
+    <string name="txt_total_parturition_piglets">総分娩仔豚数</string>
+    <string name="txt_number_of_live_piglets">生存仔豚数</string>
+    <string name="txt_number_of_mummies">ミイラ数</string>
+    <string name="txt_number_of_milts">白子数</string>
+    <string name="txt_number_of_moon">黒子数</string>
+    <string name="txt_other_death">その他 死亡</string>
+    <string name="txt_total_weight">総体重</string>
+    <string name="txt_register_of_birth_infor">分娩情報登録</string>
+    <string name="txt_mating_date">交配日</string>
+    <string name="txt_mating_sequence_number">交配連番</string>
+    <string name="txt_mating_party">交配相手</string>
+    <string name="txt_hybrid_variety">交配品種</string>
+</resources>
