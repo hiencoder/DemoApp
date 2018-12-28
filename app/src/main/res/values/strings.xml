@@ -2,14 +2,15 @@
     <string name="app_name">AppPDA</string>
 
     <string name="txt_retunr">終了</string>
-    <!--Register Screen-->
+    <!--Phát dục-->
     <string name="txt_estrus_date_">発情日</string>
     <string name="txt_classsification">区分</string>
     <string name="txt_recurrence_date">再発・流産日</string>
     <string name="txt_date_register">登録者</string>
     <string name="txt_register_estrus_infor">発情情報登録</string>
     <string name="txt_register_person">登録者</string>
-    
+
+    <!--Thông tin mang thai-->
     <string name="txt_delivery_date">分娩日</string>
     <string name="txt_labor_result">分娩結果</string>
     <string name="txt_delivery_time">分娩時間</string>
@@ -22,8 +23,77 @@
     <string name="txt_other_death">その他 死亡</string>
     <string name="txt_total_weight">総体重</string>
     <string name="txt_register_of_birth_infor">分娩情報登録</string>
+
+    <!--Giao phối-->
     <string name="txt_mating_date">交配日</string>
     <string name="txt_mating_sequence_number">交配連番</string>
     <string name="txt_mating_party">交配相手</string>
     <string name="txt_hybrid_variety">交配品種</string>
+    <string name="txt_mating_information">交配情報登録</string>
+    <string name="txt_mating_category">交配区分</string>
+    <string name="txt_amount">量(ml)</string>
+    <string name="txt_person_in_charge">担当者</string>
+
+    <!--Thông tin chữa trị-->
+    <string name="txt_diurnal_age">日令</string>
+    <string name="txt_treatment_serial_number">治療連番</string>
+    <string name="txt_pigsty">豚舎</string>
+    <string name="txt_disease">疾病</string>
+    <string name="txt_register_treatment_info">治療情報登録</string>
+    <string name="txt_chemical_classification">薬品分類</string>
+    <string name="txt_chemicals">薬品</string>
+    <string name="txt_veterinarian_name">獣医師名</string>
+    <string name="txt_treatment_start_date">処置開始日</string>
+    <string name="txt_treatment_end_date">処置終了日</string>
+    <string name="txt_treatment_object">治療目的</string>
+    <string name="txt_dosage">投薬量</string>
+
+    <!--Thông tin vắc xin-->
+    <string name="txt_serial_number">連番</string>
+    <string name="txt_vaccine_selection">ワクチン選択</string>
+    <string name="txt_weaning_day">離乳日</string>
+    <string name="txt_weaning_number">離乳頭数</string>
+    <string name="txt_weaned_piglet_total_weight">離乳仔豚総体重</string>
+    <string name="txt_weaning_register_info">離乳情報登録</string>
+
+    <!--Tham chiếu-->
+    <string name="txt_management_number_1">管理番号１</string>
+    <string name="txt_indi_id_number">個体識別番号</string>
+    <string name="txt_management_number_2">管理番号１</string>
+    <string name="txt_birth_date">出生日</string>
+    <string name="txt_feeding_start_date">飼養開始日</string>
+    <string name="txt_feeding_end_date">飼養終了日</string>
+    <string name="txt_a_pig_breed">豚品種</string>
+    <string name="txt_sex">性別</string>
+    <string name="txt_state">状態</string>
+    <string name="txt_scheduled_date">予定日...</string>
+    <string name="txt_vaccine_history">ワクチン履歴</string>
+    <string name="txt_scheduled_weaning">離乳予定日</string>
+    <string name="txt_estimated_scheduled_date">発情予定日</string>
+    <string name="txt_scheduled_pregnancy_date">妊娠予定日</string>
+    <string name="txt_expected_delivery_date">分娩予定日</string>
+    <string name="txt_last_estuary_day">前回発情日</string>
+    <string name="txt_pregnancy_confirm_date">前回妊娠確認日</string>
+    <string name="txt_last_weight_measurent_date">前回体重測定日</string>
+    <string name="txt_prev_weight_measure">前回体重測定結果</string>
+    <string name="txt_drug_holiday">休薬期間</string>
+    <string name="txt_last_ai_collection_date">前回AI採取日</string>
+    <string name="txt_treatment_day">処置日</string>
+    <string name="txt_vaccine_name">ワクチン名</string>
+    
+    <!--Thông tin cần lưu ý-->
+    <string name="txt_caution_information">注意情報</string>
+    <string name="txt_individual_selection">個体選択</string>
+    <string name="txt_notice">おしらせ</string>
+
+    <!--Đăng ký cá thể-->
+    <string name="txt_pig_house_selection">豚舎選択</string>
+    <string name="txt_parent_info_registration_screen">親情報登録画面</string>
+    <string name="txt_mother_tag">母親タグ</string>
+    <string name="txt_father_tag">父親タグ</string>
+
+    <!--Di chuyển cá thể-->
+    <string name="txt_pig_house_ex">豚舎元</string>
+    <string name="txt_pig_soba">豚房元</string>
+    <string name="txt_destination_register">移動先登録</string>
 </resources>
