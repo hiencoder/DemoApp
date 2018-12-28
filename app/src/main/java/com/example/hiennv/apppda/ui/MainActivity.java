@@ -94,7 +94,10 @@ public class MainActivity extends AppCompatActivity {
                         new PrimaryDrawerItem().withName("Menu 2")./*withDescription("Menu 22").*/withIcon(FontAwesome.Icon.faw_home).withIdentifier(2).withSelectable(false),
                         new SectionDrawerItem().withName(R.string.txt_registration),
                         new SecondaryDrawerItem().withName("Menu 3")./*withDescription("Menu 33").*/withIcon(FontAwesome.Icon.faw_gamepad).withIdentifier(3).withSelectable(false),
-                        new SecondaryDrawerItem().withName("Menu 4")./*withDescription("Menu 44").*/withIcon(FontAwesome.Icon.faw_eye).withIdentifier(4).withSelectable(false)
+                        new SecondaryDrawerItem().withName("Menu 4")./*withDescription("Menu 44").*/withIcon(FontAwesome.Icon.faw_eye).withIdentifier(4).withSelectable(false),
+                        new SecondaryDrawerItem().withName("Menu 5").withIcon(FontAwesome.Icon.faw_address_book).withIdentifier(5).withSelectable(false),
+                        new SecondaryDrawerItem().withName("Menu 6").withIcon(FontAwesome.Icon.faw_accusoft).withIdentifier(6).withSelectable(false),
+                        new SecondaryDrawerItem().withName("Menu 7").withIcon(FontAwesome.Icon.faw_alipay).withIdentifier(7).withSelectable(false)
                 )
                 .withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
                     @Override
@@ -108,6 +111,12 @@ public class MainActivity extends AppCompatActivity {
                             } else if (drawerItem.getIdentifier() == 3) {
 
                             } else if (drawerItem.getIdentifier() == 4) {
+
+                            } else if (drawerItem.getIdentifier() == 5) {
+
+                            } else if (drawerItem.getIdentifier() == 6) {
+
+                            } else if (drawerItem.getIdentifier() == 7) {
 
                             }
                         }

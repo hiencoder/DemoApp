@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">AppPDA</string>
 
-    <string name="txt_retunr">終了</string>
+    <string name="txt_return">終了</string>
+    <!---->
+    <string name="txt_inquiry">照会</string>
+    <string name="txt_registration">登録</string>
+
     <!--Phát dục-->
     <string name="txt_estrus_date_">発情日</string>
     <string name="txt_classsification">区分</string>
@@ -80,7 +84,7 @@
     <string name="txt_last_ai_collection_date">前回AI採取日</string>
     <string name="txt_treatment_day">処置日</string>
     <string name="txt_vaccine_name">ワクチン名</string>
-    
+
     <!--Thông tin cần lưu ý-->
     <string name="txt_caution_information">注意情報</string>
     <string name="txt_individual_selection">個体選択</string>
